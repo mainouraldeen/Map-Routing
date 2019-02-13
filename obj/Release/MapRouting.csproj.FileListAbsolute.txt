@@ -1,0 +1,23 @@
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\algo8\bin\Release\algo1.exe.config
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\algo8\obj\Release\algo1.exe
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\algo8\obj\Release\algo1.pdb
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\algo8\bin\Release\algo1.exe
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\algo8\bin\Release\algo1.pdb
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\algo8\obj\Release\algo1.Properties.Resources.resources
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\algo8\obj\Release\MapRouting.csproj.GenerateResource.Cache
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting final\bin\Release\algo1.exe.config
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting final\obj\Release\algo1.exe
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting final\obj\Release\algo1.pdb
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting final\bin\Release\algo1.exe
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting final\bin\Release\algo1.pdb
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting final\obj\Release\MapRouting.csprojResolveAssemblyReference.cache
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting final\obj\Release\algo1.Properties.Resources.resources
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting final\obj\Release\MapRouting.csproj.GenerateResource.Cache
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting team 57\bin\Release\algo1.exe.config
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting team 57\obj\Release\algo1.exe
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting team 57\obj\Release\algo1.pdb
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting team 57\bin\Release\algo1.exe
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting team 57\bin\Release\algo1.pdb
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting team 57\obj\Release\MapRouting.csprojResolveAssemblyReference.cache
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting team 57\obj\Release\algo1.Properties.Resources.resources
+E:\KOLYA\3rd year\Algorithms\Projects\Our Project\MapRouting team 57\obj\Release\MapRouting.csproj.GenerateResource.Cache

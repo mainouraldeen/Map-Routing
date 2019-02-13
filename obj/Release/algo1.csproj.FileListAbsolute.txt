@@ -1,0 +1,24 @@
+C:\Users\nourh\Downloads\FCIS 3rd year\Algo\algo5\algo1\bin\Release\algo1.exe.config
+C:\Users\nourh\Downloads\FCIS 3rd year\Algo\algo5\algo1\bin\Release\algo1.exe
+C:\Users\nourh\Downloads\FCIS 3rd year\Algo\algo5\algo1\bin\Release\algo1.pdb
+C:\Users\nourh\Downloads\FCIS 3rd year\Algo\algo5\algo1\obj\Release\algo1.csproj.CoreCompileInputs.cache
+C:\Users\nourh\Downloads\FCIS 3rd year\Algo\algo5\algo1\obj\Release\algo1.exe
+C:\Users\nourh\Downloads\FCIS 3rd year\Algo\algo5\algo1\obj\Release\algo1.pdb
+C:\Users\Lenovo\Downloads\algo1\bin\Release\algo1.exe.config
+C:\Users\Lenovo\Downloads\algo1\bin\Release\algo1.exe
+C:\Users\Lenovo\Downloads\algo1\bin\Release\algo1.pdb
+C:\Users\Lenovo\Downloads\algo1\obj\Release\algo1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\algo1\obj\Release\algo1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\algo1\obj\Release\algo1.exe
+C:\Users\Lenovo\Downloads\algo1\obj\Release\algo1.pdb
+C:\Users\Lenovo\Downloads\algo1\obj\Release\algo1.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\algo1\obj\Release\algo1.csproj.GenerateResource.cache
+C:\Users\nourhan\Desktop\algo1\bin\Release\algo1.exe.config
+C:\Users\nourhan\Desktop\algo1\bin\Release\algo1.exe
+C:\Users\nourhan\Desktop\algo1\bin\Release\algo1.pdb
+C:\Users\nourhan\Desktop\algo1\obj\Release\algo1.csprojAssemblyReference.cache
+C:\Users\nourhan\Desktop\algo1\obj\Release\algo1.Properties.Resources.resources
+C:\Users\nourhan\Desktop\algo1\obj\Release\algo1.csproj.GenerateResource.cache
+C:\Users\nourhan\Desktop\algo1\obj\Release\algo1.csproj.CoreCompileInputs.cache
+C:\Users\nourhan\Desktop\algo1\obj\Release\algo1.exe
+C:\Users\nourhan\Desktop\algo1\obj\Release\algo1.pdb
