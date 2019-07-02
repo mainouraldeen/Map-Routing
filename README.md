@@ -18,7 +18,6 @@ The walking speed is always 5 km/h (from the source location to the nearby inter
 
 
 
-
 Input
 1.	Map description file, which consists of:
 a.	Number of intersections.
